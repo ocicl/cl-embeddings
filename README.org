@@ -2,8 +2,8 @@
 
 A Common Lisp embeddings library
 
-|---------+----------------------------------------------|
-| source  | git:git@github.com:atgreen/cl-embeddings.git |
-| commit  | 39c0ce1                                      |
-| systems | embeddings                                   |
-|---------+----------------------------------------------|
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-embeddings.git |
+| commit  | 39c0ce1                                          |
+| systems | embeddings                                       |
+|---------+--------------------------------------------------|
