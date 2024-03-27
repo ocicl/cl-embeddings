@@ -4,6 +4,6 @@ A Common Lisp embeddings library
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-embeddings.git |
-| commit  | b28a270                                          |
+| commit  | 91fcb2f                                          |
 | systems | embeddings                                       |
 |---------+--------------------------------------------------|
